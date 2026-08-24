@@ -1,5 +1,39 @@
+# LangChain
 langchain-core
 langchain-community
 langchain-deepseek
+langchain-huggingface
+langchain-classic
+langchain-postgres
+langchain-text-splitters
 
-dotenv
+# ML
+torch
+sentence-transformers
+
+# Web framework
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Database
+sqlalchemy[asyncio]
+psycopg[binary]
+asyncpg
+pgvector
+alembic
+
+# Auth
+authlib
+pyjwt
+
+# Async / jobs
+celery
+redis
+
+# Config / misc
+pydantic
+pydantic-settings
+python-dotenv
+httpx
+pypdf
